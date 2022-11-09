@@ -1,5 +1,5 @@
 # Vision Transformer Model Implementation
-VIT model on digit recognizer dataset.
+VIT model on digit recognizer dataset from.
 
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929v2)
 
